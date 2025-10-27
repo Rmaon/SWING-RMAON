@@ -1,11 +1,11 @@
-export default class EventModel {
+export class EventItem {
   constructor({
     id = Date.now(),
     tipo, // 'clase' | 'actividad'
     nombre,
     dia,
     hora,
-    duracion = 1,
+    duracion,
     ubicacion,
     profesores = "",
     estilo = "",
