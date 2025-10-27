@@ -11,9 +11,7 @@ function injectAppShell() {
     <header>
       <div class="header-content">
         <div class="header-title">
-          <svg class="icon" style="width: 2.5rem; height: 2.5rem;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19V6l12-3v13M9 19c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zM9 10l12-3"></path>
-          </svg>
+          <img src="/resources/logoSwing.png" alt="Logo Swing CR" class="logo-img" style="width: 5rem; height: 5rem; margin-right: 1rem; border-radius: 50%; object-fit: cover;">
           <div>
             <h1>Swing CR Festival 2026</h1>
             <p class="subtitle">Sistema de Gestión de Eventos</p>
